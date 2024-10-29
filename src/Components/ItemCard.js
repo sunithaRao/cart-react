@@ -17,7 +17,7 @@ function ItemCard(props) {
               addItem(props.item);
             }}
           >
-            Add to cart
+            Add to cart now
           </button>
         </div>
       </div>
